@@ -10,13 +10,51 @@ iOS 앱을 개발하며 쌓은 오디오 처리와 비동기 프로그래밍 경
 
 ## 🛠️ Tech Stack
 
-| 분야 | 사용 기술 |
-| :--- | :--- |
-| Embedded | C, STM32, HAL, DMA, UART, I2C, I2S, ADC, PWM |
-| System & Network | Linux, Character Device Driver, POSIX Threads, TCP/IP Socket |
-| Edge AI & Data | Python, OpenCV, TensorFlow/Keras, MySQL/MariaDB |
-| iOS | Swift, SwiftUI, UIKit, Combine, AVFoundation, Swift Concurrency |
-| Tools | Git, CMake, Make, STM32CubeIDE, STM32CubeMX, Teleplot |
+### Embedded
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![HAL](https://img.shields.io/badge/HAL-03234B?style=for-the-badge)
+![DMA](https://img.shields.io/badge/DMA-007396?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-007396?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-007396?style=for-the-badge)
+![I2S](https://img.shields.io/badge/I2S-007396?style=for-the-badge)
+![ADC](https://img.shields.io/badge/ADC-007396?style=for-the-badge)
+![PWM](https://img.shields.io/badge/PWM-007396?style=for-the-badge)
+
+### System & Network
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Character Device Driver](https://img.shields.io/badge/Character_Device_Driver-333333?style=for-the-badge)
+![POSIX Threads](https://img.shields.io/badge/POSIX_Threads-333333?style=for-the-badge)
+![TCP/IP Socket](https://img.shields.io/badge/TCP%2FIP_Socket-333333?style=for-the-badge)
+
+### Edge AI & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### iOS
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-007AFF?style=for-the-badge)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-007AFF?style=for-the-badge)
+![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-F05138?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Teleplot](https://img.shields.io/badge/Teleplot-00897B?style=for-the-badge)
 
 ## 🚀 Selected Projects
 
